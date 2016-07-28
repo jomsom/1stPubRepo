@@ -1,0 +1,43 @@
+Line 121: Class MSFlexGridLib.MSFlexGrid of control msgCommision was not a loaded control class.
+Line 162: Class MSFlexGridLib.MSFlexGrid of control msgSalesView was not a loaded control class.
+Line 1394: Class MSFlexGridLib.MSFlexGrid of control msgReceipt was not a loaded control class.
+Line 2153: Class MSFlexGridLib.MSFlexGrid of control msgEmpList was not a loaded control class.
+Line 2195: Class MSFlexGridLib.MSFlexGrid of control msgReceiptView was not a loaded control class.
+Line 127: The property name _ExtentX in msgCommision is invalid.
+Line 128: The property name _ExtentY in msgCommision is invalid.
+Line 129: The property name _Version in msgCommision is invalid.
+Line 130: The property name Rows in msgCommision is invalid.
+Line 131: The property name Cols in msgCommision is invalid.
+Line 132: The property name FixedRows in msgCommision is invalid.
+Line 133: The property name FixedCols in msgCommision is invalid.
+Line 134: The property name ScrollBars in msgCommision is invalid.
+Line 168: The property name _ExtentX in msgSalesView is invalid.
+Line 169: The property name _ExtentY in msgSalesView is invalid.
+Line 170: The property name _Version in msgSalesView is invalid.
+Line 171: The property name Rows in msgSalesView is invalid.
+Line 172: The property name Cols in msgSalesView is invalid.
+Line 173: The property name FixedRows in msgSalesView is invalid.
+Line 174: The property name FixedCols in msgSalesView is invalid.
+Line 175: The property name ScrollBars in msgSalesView is invalid.
+Line 1400: The property name _ExtentX in msgReceipt is invalid.
+Line 1401: The property name _ExtentY in msgReceipt is invalid.
+Line 1402: The property name _Version in msgReceipt is invalid.
+Line 1403: The property name Rows in msgReceipt is invalid.
+Line 1404: The property name FixedRows in msgReceipt is invalid.
+Line 1405: The property name FixedCols in msgReceipt is invalid.
+Line 1406: The property name ScrollBars in msgReceipt is invalid.
+Line 2159: The property name _ExtentX in msgEmpList is invalid.
+Line 2160: The property name _ExtentY in msgEmpList is invalid.
+Line 2161: The property name _Version in msgEmpList is invalid.
+Line 2162: The property name Rows in msgEmpList is invalid.
+Line 2163: The property name FixedRows in msgEmpList is invalid.
+Line 2164: The property name FixedCols in msgEmpList is invalid.
+Line 2165: The property name ScrollBars in msgEmpList is invalid.
+Line 2201: The property name _ExtentX in msgReceiptView is invalid.
+Line 2202: The property name _ExtentY in msgReceiptView is invalid.
+Line 2203: The property name _Version in msgReceiptView is invalid.
+Line 2204: The property name Rows in msgReceiptView is invalid.
+Line 2205: The property name FixedRows in msgReceiptView is invalid.
+Line 2206: The property name FixedCols in msgReceiptView is invalid.
+Line 2207: The property name GridLines in msgReceiptView is invalid.
+Line 2208: The property name ScrollBars in msgReceiptView is invalid.
